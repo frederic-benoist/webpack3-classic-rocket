@@ -36,10 +36,7 @@ let js_config = {
   entry: {
     theme: [
       './js/theme.js'
-    ],
-    urgence: [
-      './js/urgence.js'
-    ],
+    ]
   },
   output: {
     path: path.resolve(__dirname, '../../assets/js'),
